@@ -1,0 +1,60 @@
+proceeding_suffix,description
+AJ,an application for legal aid
+AJ-REC,an application for the rectification of a decision in a proceeding related to an application for legal aid
+AJ-REV,an application for the revision of a decision in a proceeding related to an application for legal aid
+DEP,an application as to costs
+DISS,an application for the separation of joined cases
+EX,an application to suspend the enforcement of a judgment
+INTP,an application for the interpretation of a decision
+INTP-DEP,an application as to costs in a proceeding concerning an application for the interpretation of a decision
+OP,an application to set aside a judgment given by default in a proceeding in which a party has failed to defend themselves
+OP-DEP,an application as to costs in a proceeding concerning an application to set aside a judgment given by default in a proceeding in which a party has failed to defend themselves
+OP-R,an application for interim measures in a proceeding concerning an application to set aside a judgment given by default in a proceeding in which a party has failed to defend themselves
+OST,an application claiming failure to adjudicate in a proceeding
+P,an appeal
+P(AJ),an appeal against a decision in a proceeding concerning an application for legal aid
+P(I),an appeal against a decision in a proceeding concerning an application to intervene
+P(R),an appeal against a decision in a proceeding concerning an application for interim measures
+P(R)-DEP,an application as to costs in a proceeding concerning an appeal against a decision in a proceeding concerning an application for interim measures
+P(R)-INTP,an application for the interpretation of a decision in a proceeding concerning an appeal against a decision in a proceeding concerning an application for interim measures
+P(R)-R,an application for interim measures in a proceeding concerning an appeal against a decision in a proceeding concerning an application for interim measures
+P-AJ,an application for legal aid in an appeal
+P-DEP,an application as to costs in an appeal
+P-INTP,an application for the interpretation of a decision in an appeal
+P-OST,an application claiming that the Court has failed to adjudicate in an appeal
+P-R,an application for interim measures in an appeal
+P-REC,an application for the rectification of a decision in an appeal
+P-RENV-RX,a proceeding that has been referred back to the General Court following a review by the Court of Justice of a General Court decision in an appeal
+P-RENV-RX-AJ,an application for legal aid in a proceeding that has been referred back to the General Court following a review by the Court of Justice of a General Court decision in an appeal
+P-REV,an application for the revision of a decision in an appeal
+P-REV-OST,an application claiming that the Court has failed to adjudicate in a proceeding that is an application for the revision of the decision in an appeal
+P-TO,third-party proceedings in an appeal
+PPU,a reference for a preliminary ruling (urgent procedure)
+PPU-REC,an application for the rectification of a decision in a reference for a preliminary ruling (urgent procedure)
+R,an application for interim measures
+R-AJ,an application for legal aid in a proceeding concerning an application for interim measures
+R-DEP,an application as to costs in a proceeding concerning an application for interim measures
+R-EX,an application to suspend the enforcement of a decision in a proceeding concerning an application for interim measures
+R-INTP,an application for the interpretation of a decision in a proceeding concerning an application for interim measures
+R-OST,an application claiming that the Court has failed to adjudicate in a proceeding concerning an application for interim measures
+R-RAP,an application for the cancellation of interim measures
+R-REC,an application for the rectification of a decision in a proceeding concerning an application for interim measures
+R-RENV,a proceeding that has been referred back to the General Court following an appeal to the Court of Justice of a General Court decision in a proceeding concerning an application for interim measures
+R-REV,an application for the revision of a decision in a proceeding concerning an application for interim measures
+REC,an application for the rectification of a decision
+REC-INTP,an application for the interpretation of a decision in a proceeding concerning an application for the rectification of a decision
+RENV,a proceeding that has been referred back to the General Court by the Court of Justice after an appeal
+RENV-DEP,an application as to costs in a proceeding that has been referred back to the General Court by the Court of Justice after an appeal
+RENV-OP,an application to set aside a judgment given by default in a proceeding that has been referred back to the General Court by the Court of Justice after an appeal
+RENV-OST,an application claiming that the Court has failed to adjudicate in a proceeding that has been referred back to the General Court by the Court of Justice after an appeal
+RENV-R,an application for interim measures in a proceeding that has been referred back to the General Court by the Court of Justice after an appeal
+RENV-REC,an application for the rectification of a decision in a proceeding that has been referred back to the General Court by the Court of Justice after an appeal
+RENV-RX,a proceeding that has been referred back to the General Court following a review by the Court of Justice of a General Court decision
+REV,an application for the revision of a decision
+REV-DEP,an application as to costs in a proceeding concerning an application for the revision of a decision
+REV-INTP,an application for the interpretation of a decision in a proceeding concerning an application for the revision of a decision
+REV-INTP-DEP,an application as to costs in a proceeding concerning an application for the interpretation of a decision in a proceeding concerning an application for the revision of a decision
+RX,a review of a General Court decision by the Court of Justice
+SA,an application for a garnishee order
+TO,third-party proceedings
+TO-R,an application for interim measures in third-party proceedings

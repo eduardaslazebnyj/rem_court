@@ -1,0 +1,343 @@
+actor_id,display_label,display_label_ascii,full_name,first_name,last_name,member_state,birth_year,is_female,court,position,is_current,start_date,end_date,was_judge,was_academic,was_civil_servant,was_lawyer,was_politician
+ACT_EU_INST_CJEU_JUDG_AG_BE_RAE,Van Raepenbusch,Van Raepenbusch,Sean Van Raepenbusch,Sean,Van Raepenbusch,Belgium,1956,0,Civil Service Tribunal,judge,False,2005-10-06,2016-08-31,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_DE_KRE,Kreppel,Kreppel,Horstpeter Kreppel,Horstpeter,Kreppel,Germany,1945,0,Civil Service Tribunal,judge,False,2005-10-06,2016-04-13,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_EL_TAG,Tagaras,Tagaras,Haris Tagaras,Haris,Tagaras,Greece,1955,0,Civil Service Tribunal,judge,False,2005-10-06,2011-10-06,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_FI_KAN,Kanninen,Kanninen,Heikki Kanninen,Heikki,Kanninen,Finland,1952,0,Civil Service Tribunal,judge,False,2005-10-06,2009-10-06,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_FR_GER,Gervasoni,Gervasoni,Stéphane Gervasoni,Stéphane,Gervasoni,France,1967,0,Civil Service Tribunal,judge,False,2005-10-06,2011-10-06,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_PL_BOR,Boruta,Boruta,Irena Boruta,Irena,Boruta,Poland,1950,1,Civil Service Tribunal,judge,False,2005-10-06,2013-10-07,0,1,1,1,1
+ACT_EU_INST_CJEU_JUDG_AG_UK_MAH,Mahoney,Mahoney,Paul John Mahoney,Paul John,Mahoney,United Kingdom,1946,0,Civil Service Tribunal,judge,False,2005-10-06,2011-10-06,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_ES_ROF_PUJ,Rofes i Pujol,Rofes i Pujol,Maria Isabel Rofes i Pujol,Maria Isabel,Rofes i Pujol,Spain,1956,1,Civil Service Tribunal,judge,False,2009-10-07,2016-04-13,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_IE_BRA,Bradley,Bradley,Kieran Bradley,Kieran,Bradley,Ireland,1957,0,Civil Service Tribunal,judge,False,2011-10-06,2016-08-31,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_IT_PERI,Perillo,Perillo,Ezio Perillo,Ezio,Perillo,Italy,1950,0,Civil Service Tribunal,judge,False,2011-10-06,2016-08-31,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_NL_BAR,Barents,Barents,René Barents,René,Barents,Netherlands,1951,0,Civil Service Tribunal,judge,False,2011-10-06,2016-08-31,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_DK_SVE,Svenningsen,Svenningsen,Jesper Svenningsen,Jesper,Svenningsen,Denmark,1966,0,Civil Service Tribunal,judge,False,2013-10-07,2016-08-31,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_BG_KOR,Kornezov,Kornezov,Alexander Kornezov,Alexander,Kornezov,Bulgaria,1978,0,Civil Service Tribunal,judge,False,2016-04-13,2016-08-31,1,1,0,1,0
+ACT_EU_INST_CJEU_JUDG_AG_PT_SAN_ANN,Sant'Anna,Sant'Anna,João Sant'Anna,João,Sant'Anna,Portugal,1957,0,Civil Service Tribunal,judge,False,2016-04-13,2016-08-31,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_UK_MAH,Mahoney,Mahoney,Paul John Mahoney,Paul John,Mahoney,United Kingdom,1946,0,Civil Service Tribunal,President,False,2005-10-06,2011-10-06,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_BE_RAE,Van Raepenbusch,Van Raepenbusch,Sean Van Raepenbusch,Sean,Van Raepenbusch,Belgium,1956,0,Civil Service Tribunal,President,False,2011-10-07,2016-08-31,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_DE_ROE,Roemer,Roemer,Karl Roemer,Karl,Roemer,Germany,1899,0,Court of Justice,Advocate-General,False,1953-10-01,1973-10-01,1,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_FR_LAG,Lagrange,Lagrange,Maurice Lagrange,Maurice,Lagrange,France,1900,0,Court of Justice,Advocate-General,False,1958-10-07,1964-10-08,0,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_FR_GAN,Gand,Gand,Joseph Gand,Joseph,Gand,France,1913,0,Court of Justice,Advocate-General,False,1964-10-08,1970-10-06,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_FR_DUT_LAM,Dutheillet de Lamothe,Dutheillet de Lamothe,Alain Louis Dutheillet de Lamothe,Alain Louis,Dutheillet de Lamothe,France,1919,0,Court of Justice,Advocate-General,False,1970-10-07,1972-01-02,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_FR_MAY,Mayras,Mayras,Henri Mayras,Henri,Mayras,France,1920,0,Court of Justice,Advocate-General,False,1972-03-22,1981-03-18,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_IT_TRA,Trabucchi,Trabucchi,Alberto Trabucchi,Alberto,Trabucchi,Italy,1907,0,Court of Justice,Advocate-General,False,1973-01-09,1976-10-06,0,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_UK_WAR,Warner,Warner,Jean-Pierre Warner,Jean-Pierre,Warner,United Kingdom,1924,0,Court of Justice,Advocate-General,False,1973-01-09,1981-02-26,0,0,0,1,1
+ACT_EU_INST_CJEU_JUDG_AG_DE_REI,Reischl,Reischl,Gerhard Reischl,Gerhard,Reischl,Germany,1918,0,Court of Justice,Advocate-General,False,1973-10-09,1984-01-11,1,0,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_IT_CAP,Capotorti,Capotorti,Francesco Capotorti,Francesco,Capotorti,Italy,1925,0,Court of Justice,Advocate-General,False,1976-10-07,1982-10-06,0,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_UK_SLY,Slynn,Slynn,Gordon Slynn,Gordon,Slynn,United Kingdom,1930,0,Court of Justice,Advocate-General,False,1981-02-26,1988-10-06,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_FR_ROZ,Rozès,Rozes,Simone Rozès,Simone,Rozès,France,1920,1,Court of Justice,Advocate-General,False,1981-03-18,1984-02-13,1,0,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_NL_LOR_THE,verLoren van Themaat,verLoren van Themaat,Pieter verLoren van Themaat,Pieter,verLoren van Themaat,Netherlands,1916,0,Court of Justice,Advocate-General,False,1981-06-04,1986-01-13,0,0,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_IT_MAN,Mancini,Mancini,Giuseppe Federico Mancini,Giuseppe Federico,Mancini,Italy,1927,0,Court of Justice,Advocate-General,False,1982-10-07,1988-10-06,0,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_DE_LEN,Lenz,Lenz,Carl Otto Lenz,Carl Otto,Lenz,Germany,1930,0,Court of Justice,Advocate-General,False,1984-01-11,1997-10-06,0,0,0,1,1
+ACT_EU_INST_CJEU_JUDG_AG_FR_DAR,Darmon,Darmon,Marco Darmon,Marco,Darmon,France,1930,0,Court of Justice,Advocate-General,False,1984-02-13,1994-10-06,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_PT_CRU_VIL,da Cruz Vilaça,da Cruz Vilaca,José Luis da Cruz Vilaça,José Luis,da Cruz Vilaça,Portugal,1944,0,Court of Justice,Advocate-General,False,1986-01-01,1988-10-06,0,1,0,0,1
+ACT_EU_INST_CJEU_JUDG_AG_LU_MIS,Mischo,Mischo,Jean Mischo,Jean,Mischo,Luxembourg,1938,0,Court of Justice,Advocate-General,False,1986-01-13,1991-10-06,0,0,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_BE_GER,Van Gerven,Van Gerven,Walter Van Gerven,Walter,Van Gerven,Belgium,1935,0,Court of Justice,Advocate-General,False,1988-10-07,1994-10-06,0,1,0,1,0
+ACT_EU_INST_CJEU_JUDG_AG_IT_TES,Tesauro,Tesauro,Giuseppe Tesauro,Giuseppe,Tesauro,Italy,1942,0,Court of Justice,Advocate-General,False,1988-10-07,1998-03-04,0,1,0,1,0
+ACT_EU_INST_CJEU_JUDG_AG_UK_JAC,Jacobs,Jacobs,Francis Geoffrey Jacobs,Francis Geoffrey,Jacobs,United Kingdom,1939,0,Court of Justice,Advocate-General,False,1988-10-07,2006-01-10,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_DK_GUL,Gulmann,Gulmann,Claus Christian Gulmann,Claus Christian,Gulmann,Denmark,1942,0,Court of Justice,Advocate-General,False,1991-10-07,1994-10-06,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_DK_ELM,Elmer,Elmer,Michael Bendik Elmer,Michael Bendik,Elmer,Denmark,1949,0,Court of Justice,Advocate-General,False,1994-10-07,1997-12-18,1,0,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_EL_COS,Cosmas,Cosmas,Georges Cosmas,Georges,Cosmas,Greece,1932,0,Court of Justice,Advocate-General,False,1994-10-07,2000-10-06,1,0,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_FR_LEGE,Léger,Leger,Philippe Léger,Philippe,Léger,France,1938,0,Court of Justice,Advocate-General,False,1994-10-07,2006-10-06,1,1,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_IT_PERG,La Pergola,La Pergola,Antonio Mario La Pergola,Antonio Mario,La Pergola,Italy,1931,0,Court of Justice,Advocate-General,False,1995-01-01,1999-12-14,1,1,0,0,1
+ACT_EU_INST_CJEU_JUDG_AG_ES_RUI_JAR_COL,Ruiz-Jarabo Colomer,Ruiz-Jarabo Colomer,Dámaso Ruiz-Jarabo Colomer,Dámaso,Ruiz-Jarabo Colomer,Spain,1949,0,Court of Justice,Advocate-General,False,1995-01-19,2009-11-12,1,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_IE_FEN,Fennelly,Fennelly,Nial Fennelly,Nial,Fennelly,Ireland,1942,0,Court of Justice,Advocate-General,False,1995-01-19,2000-10-06,0,0,0,1,0
+ACT_EU_INST_CJEU_JUDG_AG_DE_ALB,Alber,Alber,Siegbert Alber,Siegbert,Alber,Germany,1936,0,Court of Justice,Advocate-General,False,1997-10-07,2003-10-06,0,0,0,0,1
+ACT_EU_INST_CJEU_JUDG_AG_LU_MIS,Mischo,Mischo,Jean Mischo,Jean,Mischo,Luxembourg,1938,0,Court of Justice,Advocate-General,False,1997-12-19,2003-10-06,0,0,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_IT_SAG,Saggio,Saggio,Antonio Saggio,Antonio,Saggio,Italy,1934,0,Court of Justice,Advocate-General,False,1998-03-05,2000-10-06,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_AT_STI_HAC,Stix-Hackl,Stix-Hackl,Christine Stix-Hackl,Christine,Stix-Hackl,Austria,1957,1,Court of Justice,Advocate-General,False,2000-10-07,2006-10-06,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_IT_TIZ,Tizzano,Tizzano,Antonio Tizzano,Antonio,Tizzano,Italy,1940,0,Court of Justice,Advocate-General,False,2000-10-07,2006-05-03,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_NL_GEE,Geelhoed,Geelhoed,Leendert Adrie Geelhoed,Leendert Adrie,Geelhoed,Netherlands,1942,0,Court of Justice,Advocate-General,False,2000-10-07,2006-10-06,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_DE_KOK,Kokott,Kokott,Juliane Kokott,Juliane,Kokott,Germany,1957,1,Court of Justice,Advocate-General,True,2003-10-07,,1,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_PT_POI_PES_MAD,Poiares Pessoa Maduro,Poiares Pessoa Maduro,Luís Miguel Poiares Pessoa Maduro,Luís Miguel,Poiares Pessoa Maduro,Portugal,1967,0,Court of Justice,Advocate-General,False,2003-10-07,2009-10-06,0,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_UK_SHA,Sharpston,Sharpston,Eleanor Sharpston,Eleanor,Sharpston,United Kingdom,1955,1,Court of Justice,Advocate-General,False,2006-01-11,2020-09-10,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_IT_MEN,Mengozzi,Mengozzi,Paolo Mengozzi,Paolo,Mengozzi,Italy,1938,0,Court of Justice,Advocate-General,False,2006-05-04,2018-10-08,0,1,0,0,1
+ACT_EU_INST_CJEU_JUDG_AG_FR_BOT,Bot,Bot,Yves Bot,Yves,Bot,France,1947,0,Court of Justice,Advocate-General,False,2006-10-07,2019-06-09,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_SI_TRS,Trstenjak,Trstenjak,Verica Trstenjak,Verica,Trstenjak,Slovenia,1962,0,Court of Justice,Advocate-General,False,2006-10-07,2012-11-28,0,1,1,1,1
+ACT_EU_INST_CJEU_JUDG_AG_SK_MAZ,Mazák,Mazak,Ján Mazák,Ján,Mazák,Slovakia,1954,0,Court of Justice,Advocate-General,False,2006-10-07,2012-10-08,1,1,1,1,1
+ACT_EU_INST_CJEU_JUDG_AG_FI_JAA,Jääskinen,Jaaskinen,Niilo Jääskinen,Niilo,Jääskinen,Finland,1958,0,Court of Justice,Advocate-General,False,2009-10-07,2015-10-07,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_ES_CRU_VIL,Cruz Villalón,Cruz Villalon,Pedro Cruz Villalón,Pedro,Cruz Villalón,Spain,1946,0,Court of Justice,Advocate-General,False,2009-12-14,2015-10-07,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_BE_WAT,Wathelet,Wathelet,Melchior Wathelet,Melchior,Wathelet,Belgium,1949,0,Court of Justice,Advocate-General,False,2012-10-08,2018-10-08,0,1,0,0,1
+ACT_EU_INST_CJEU_JUDG_AG_SE_WAH,Wahl,Wahl,Nils Wahl,Nils,Wahl,Sweden,1961,0,Court of Justice,Advocate-General,False,2012-11-28,2019-02-06,0,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_PL_SZP,Szpunar,Szpunar,Maciej Szpunar,Maciej,Szpunar,Poland,1971,0,Court of Justice,Advocate-General,True,2013-10-23,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_CZ_BOB,Bobek,Bobek,Michal Bobek,Michal,Bobek,Czechia,1977,0,Court of Justice,Advocate-General,False,2015-10-07,2021-10-07,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_DK_SAU_OE,Saugmandsgaard Øe,Saugmandsgaard Oe,Henrik Saugmandsgaard Øe,Henrik,Saugmandsgaard Øe,Denmark,1964,0,Court of Justice,Advocate-General,False,2015-10-07,2021-10-07,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_ES_CAM_SAN_BOR,Campos Sánchez-Bordona,Campos Sanchez-Bordona,Manuel Campos Sánchez-Bordona,Manuel,Campos Sánchez-Bordona,Spain,1950,0,Court of Justice,Advocate-General,True,2015-10-07,,1,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_BG_TAN,Tanchev,Tanchev,Evgeni Tanchev,Evgeni,Tanchev,Bulgaria,1952,0,Court of Justice,Advocate-General,False,2016-09-19,2021-10-07,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_IE_HOG,Hogan,Hogan,Gerard Hogan,Gerard,Hogan,Ireland,1958,0,Court of Justice,Advocate-General,False,2018-10-08,2021-10-07,1,1,0,1,0
+ACT_EU_INST_CJEU_JUDG_AG_IT_PIT,Pitruzzella,Pitruzzella,Giovanni Pitruzzella,Giovanni,Pitruzzella,Italy,1959,0,Court of Justice,Advocate-General,True,2018-10-08,,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_EE_PIK,Pikamäe,Pikamae,Priit Pikamäe,Priit,Pikamäe,Estonia,1973,0,Court of Justice,Advocate-General,True,2019-02-06,,1,1,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_FR_RIC_TOU,Richard de la Tour,Richard de la Tour,Jean Richard de la Tour,Jean,Richard de la Tour,France,1959,0,Court of Justice,Advocate-General,True,2020-03-23,,1,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_EL_RAN,Rantos,Rantos,Athanasios Rantos,Athanasios,Rantos,Greece,1953,0,Court of Justice,Advocate-General,True,2020-09-10,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_CY_EMI,Emiliou,Emiliou,Nicholas Emiliou,Nicholas,Emiliou,Cyprus,1963,0,Court of Justice,Advocate-General,True,2021-10-07,,1,1,0,1,1
+ACT_EU_INST_CJEU_JUDG_AG_HR_CAP,Ćapeta,Capeta,Tamara Ćapeta,Tamara,Ćapeta,Croatia,1967,1,Court of Justice,Advocate-General,True,2021-10-07,,1,1,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_IE_COL,Collins,Collins,Anthony Michael Collins,Anthony Michael,Collins,Ireland,1960,0,Court of Justice,Advocate-General,True,2021-10-07,,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_LV_MED,Medina,Medina,Laila Medina,Laila,Medina,Latvia,1971,1,Court of Justice,Advocate-General,True,2021-10-07,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_BE_DEL,Delvaux,Delvaux,Louis Delvaux,Louis,Delvaux,Belgium,1895,0,Court of Justice,judge,False,1952-12-04,1967-10-08,0,0,0,1,1
+ACT_EU_INST_CJEU_JUDG_AG_DE_RIE,Riese,Riese,Otto Riese,Otto,Riese,Germany,1894,0,Court of Justice,judge,False,1952-12-04,1963-02-06,1,1,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_FR_REU,Rueff,Rueff,Jacques Rueff,Jacques,Rueff,France,1896,0,Court of Justice,judge,False,1952-12-04,1962-05-18,0,1,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_IT_PIL,Pilotti,Pilotti,Massimo Pilotti,Massimo,Pilotti,Italy,1879,0,Court of Justice,judge,False,1952-12-04,1958-10-06,1,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_LU_HAM,Hammes,Hammes,Charles Léon Hammes,Charles Léon,Hammes,Luxembourg,1898,0,Court of Justice,judge,False,1952-12-04,1964-10-07,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_NL_SER,Serrarens,Serrarens,Petrus Serrarens,Petrus,Serrarens,Netherlands,1888,0,Court of Justice,judge,False,1952-12-04,1958-10-06,0,0,0,0,1
+ACT_EU_INST_CJEU_JUDG_AG_NL_KLE,van Kleffens,van Kleffens,Adrianus van Kleffens,Adrianus,van Kleffens,Netherlands,1899,0,Court of Justice,judge,False,1952-12-10,1958-10-06,1,0,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_IT_CAT,Catalano,Catalano,Nicola Catalano,Nicola,Catalano,Italy,1910,0,Court of Justice,judge,False,1958-10-07,1962-03-08,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_IT_ROS_R,"Rossi, R.","Rossi, R.",Rino Rossi,Rino,Rossi,Italy,1889,0,Court of Justice,judge,False,1958-10-07,1964-10-07,1,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_NL_DON,Donner,Donner,Andreas Matthias Donner,Andreas Matthias,Donner,Netherlands,1918,0,Court of Justice,judge,False,1958-10-07,1979-03-29,0,1,0,1,0
+ACT_EU_INST_CJEU_JUDG_AG_IT_TRA,Trabucchi,Trabucchi,Alberto Trabucchi,Alberto,Trabucchi,Italy,1907,0,Court of Justice,judge,False,1962-03-08,1972-12-12,0,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_FR_LEC,Lecourt,Lecourt,Robert Lecourt,Robert,Lecourt,France,1908,0,Court of Justice,judge,False,1962-05-18,1967-10-09,0,0,1,1,1
+ACT_EU_INST_CJEU_JUDG_AG_DE_STR,Strauss,Strauss,Walter Strauss,Walter,Strauss,Germany,1900,0,Court of Justice,judge,False,1963-02-06,1970-10-28,1,0,1,0,1
+ACT_EU_INST_CJEU_JUDG_AG_IT_MON,Monaco,Monaco,Riccardo Monaco,Riccardo,Monaco,Italy,1909,0,Court of Justice,judge,False,1964-10-08,1976-02-03,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_BE_MER_WIL,Mertens de Wilmars,Mertens de Wilmars,Josse Mertens de Wilmars,Josse,Mertens de Wilmars,Belgium,1912,0,Court of Justice,judge,False,1967-10-09,1984-04-10,0,1,0,1,1
+ACT_EU_INST_CJEU_JUDG_AG_LU_PES,Pescatore,Pescatore,Pierre Pescatore,Pierre,Pescatore,Luxembourg,1919,0,Court of Justice,judge,False,1967-10-09,1985-10-07,0,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_DE_KUT,Kutscher,Kutscher,Hans Kutscher,Hans,Kutscher,Germany,1911,0,Court of Justice,judge,False,1970-10-28,1980-10-31,0,0,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_DK_SOR,Sørensen,Sorensen,Max Sørensen,Max,Sørensen,Denmark,1913,0,Court of Justice,judge,False,1973-01-09,1979-10-08,1,1,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_IE_O_DAL,O'Dalaigh,O'Dalaigh,Cearbhall O'Dalaigh,Cearbhall,O'Dalaigh,Ireland,1911,0,Court of Justice,judge,False,1973-01-09,1974-12-12,1,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_UK_MAC_STU,Mackenzie Stuart,Mackenzie Stuart,Alexander Mackenzie Stuart,Alexander,Mackenzie Stuart,United Kingdom,1924,0,Court of Justice,judge,False,1973-01-09,1988-10-06,1,0,0,1,0
+ACT_EU_INST_CJEU_JUDG_AG_IE_O_KEE,O'Keeffe,O'Keeffe,Andreas O'Keeffe,Andreas,O'Keeffe,Ireland,1912,0,Court of Justice,judge,False,1975-12-12,1985-01-16,1,0,0,1,1
+ACT_EU_INST_CJEU_JUDG_AG_IT_CAP,Capotorti,Capotorti,Francesco Capotorti,Francesco,Capotorti,Italy,1925,0,Court of Justice,judge,False,1976-02-03,1976-10-06,0,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_IT_BOS,Bosco,Bosco,Giacinto Bosco,Giacinto,Bosco,Italy,1905,0,Court of Justice,judge,False,1976-10-07,1988-10-06,0,1,1,0,1
+ACT_EU_INST_CJEU_JUDG_AG_FR_TOU,Touffait,Touffait,Adolphe Touffait,Adolphe,Touffait,France,1907,0,Court of Justice,judge,False,1976-10-26,1982-10-06,1,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_NL_KOO,Koopmans,Koopmans,Thymen Koopmans,Thymen,Koopmans,Netherlands,1929,0,Court of Justice,judge,False,1979-03-29,1990-03-29,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_DK_DUE,Due,Due,Ole Due,Ole,Due,Denmark,1931,0,Court of Justice,judge,False,1979-10-07,1994-10-06,0,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_DE_EVE,Everling,Everling,Ulrich Everling,Ulrich,Everling,Germany,1925,0,Court of Justice,judge,False,1980-10-06,1988-10-06,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_EL_CHL,Chloros,Chloros,Alexandros Chloros,Alexandros,Chloros,Greece,1926,0,Court of Justice,judge,False,1981-01-12,1982-11-15,0,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_FR_GRE,Grévisse,Grevisse,Fernand Grévisse,Fernand,Grévisse,France,1924,0,Court of Justice,judge,False,1981-06-04,1982-10-06,0,1,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_DE_BAH,Bahlmann,Bahlmann,Kai Bahlmann,Kai,Bahlmann,Germany,1927,0,Court of Justice,judge,False,1982-10-07,1988-10-06,0,0,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_FR_GAL,Galmot,Galmot,Yves Galmot,Yves,Galmot,France,1931,0,Court of Justice,judge,False,1982-10-07,1988-10-06,0,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_EL_KAK,Kakouris,Kakouris,Constantinos Kakouris,Constantinos,Kakouris,Greece,1919,0,Court of Justice,judge,False,1983-03-14,1997-10-06,1,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_BE_JOL,Joliet,Joliet,René Joliet,René,Joliet,Belgium,1938,0,Court of Justice,judge,False,1984-04-10,1995-07-15,0,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_IE_O_HIG_T,"O'Higgins, T.","O'Higgins, T.",Thomas Francis O'Higgins,Thomas Francis,O'Higgins,Ireland,1913,0,Court of Justice,judge,False,1985-01-16,1991-10-06,1,0,0,1,1
+ACT_EU_INST_CJEU_JUDG_AG_LU_SCHO,Schockweiler,Schockweiler,Fernand Schockweiler,Fernand,Schockweiler,Luxembourg,1935,0,Court of Justice,judge,False,1985-10-07,1996-06-01,0,0,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_ES_ROD_IGL,Rodríguez Iglesias,Rodriguez Iglesias,Gil Carlos Rodríguez Iglesias,Gil Carlos,Rodríguez Iglesias,Spain,1946,0,Court of Justice,judge,False,1986-01-31,2003-10-06,0,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_PT_CAR_MOI_ALM,de Carvalho Moitinho de Almeida,de Carvalho Moitinho de Almeida,José Carlos de Carvalho Moitinho de Almeida,José Carlos,de Carvalho Moitinho de Almeida,Portugal,1936,0,Court of Justice,judge,False,1986-01-31,2000-10-06,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_IT_MAN,Mancini,Mancini,Giuseppe Federico Mancini,Giuseppe Federico,Mancini,Italy,1927,0,Court of Justice,judge,False,1988-09-26,1999-07-21,0,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_DE_ZUL,Zuleeg,Zuleeg,Manfred Zuleeg,Manfred,Zuleeg,Germany,1935,0,Court of Justice,judge,False,1988-10-07,1994-10-06,0,0,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_ES_DIE_VEL,Diez de Velasco,Diez de Velasco,Manuel Diez de Velasco,Manuel,Diez de Velasco,Spain,1926,0,Court of Justice,judge,False,1988-10-07,1994-10-06,1,1,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_FR_GRE,Grévisse,Grevisse,Fernand Grévisse,Fernand,Grévisse,France,1924,0,Court of Justice,judge,False,1988-10-07,1994-10-06,0,1,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_UK_SLY,Slynn,Slynn,Gordon Slynn,Gordon,Slynn,United Kingdom,1930,0,Court of Justice,judge,False,1988-10-07,1992-03-10,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_NL_KAP,Kapteyn,Kapteyn,Paul Joan George Kapteyn,Paul Joan George,Kapteyn,Netherlands,1928,0,Court of Justice,judge,False,1990-03-29,2000-10-06,0,1,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_IE_MUR,Murray,Murray,John Murray,John,Murray,Ireland,1943,0,Court of Justice,judge,False,1991-10-07,1999-10-05,0,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_UK_EDW,Edward,Edward,David Alexander Ogilvy Edward,David Alexander Ogilvy,Edward,United Kingdom,1934,0,Court of Justice,judge,False,1992-03-10,2004-01-07,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_DE_HIR,Hirsch,Hirsch,Günter Hirsch,Günter,Hirsch,Germany,1943,0,Court of Justice,judge,False,1994-10-07,2000-07-14,0,0,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_DK_GUL,Gulmann,Gulmann,Claus Christian Gulmann,Claus Christian,Gulmann,Denmark,1942,0,Court of Justice,judge,False,1994-10-07,2006-01-10,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_FR_PUI,Puissochet,Puissochet,Jean-Pierre Puissochet,Jean-Pierre,Puissochet,France,1936,0,Court of Justice,judge,False,1994-10-07,2006-10-06,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_IT_PERG,La Pergola,La Pergola,Antonio Mario La Pergola,Antonio Mario,La Pergola,Italy,1931,0,Court of Justice,judge,False,1994-10-07,1994-12-31,1,1,0,0,1
+ACT_EU_INST_CJEU_JUDG_AG_AT_JAN,Jann,Jann,Peter Jann,Peter,Jann,Austria,1935,0,Court of Justice,judge,False,1995-01-19,2009-10-06,1,0,1,0,1
+ACT_EU_INST_CJEU_JUDG_AG_FI_SEV,Sevón,Sevon,Leif Sevón,Leif,Sevón,Finland,1941,0,Court of Justice,judge,False,1995-01-19,2002-01-16,1,0,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_SE_RAG,Ragnemalm,Ragnemalm,Hans Ragnemalm,Hans,Ragnemalm,Sweden,1940,0,Court of Justice,judge,False,1995-01-19,2000-10-06,1,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_BE_WAT,Wathelet,Wathelet,Melchior Wathelet,Melchior,Wathelet,Belgium,1949,0,Court of Justice,judge,False,1995-07-15,2003-10-07,0,1,0,0,1
+ACT_EU_INST_CJEU_JUDG_AG_LU_SCHI,Schintgen,Schintgen,Romain Schintgen,Romain,Schintgen,Luxembourg,1939,0,Court of Justice,judge,False,1996-07-12,2008-01-14,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_EL_IOA,Ioannou,Ioannou,Krateros Ioannou,Krateros,Ioannou,Greece,1935,0,Court of Justice,judge,False,1997-10-07,1999-03-10,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_EL_SKO,Skouris,Skouris,Vassilios Skouris,Vassilios,Skouris,Greece,1948,0,Court of Justice,judge,False,1999-06-08,2015-10-08,1,1,0,0,1
+ACT_EU_INST_CJEU_JUDG_AG_IE_O_KEL_MAC,O'Kelly Macken,O'Kelly Macken,Fidelma O'Kelly Macken,Fidelma,O'Kelly Macken,Ireland,1942,1,Court of Justice,judge,False,1999-10-06,2004-10-13,1,1,0,1,0
+ACT_EU_INST_CJEU_JUDG_AG_IT_PERG,La Pergola,La Pergola,Antonio Mario La Pergola,Antonio Mario,La Pergola,Italy,1931,0,Court of Justice,judge,False,1999-12-15,2006-05-03,1,1,0,0,1
+ACT_EU_INST_CJEU_JUDG_AG_DE_COL,Colneric,Colneric,Ninon Colneric,Ninon,Colneric,Germany,1948,1,Court of Justice,judge,False,2000-07-15,2006-10-06,1,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_NL_TIM,Timmermans,Timmermans,Christiaan Willem Anton Timmermans,Christiaan Willem Anton,Timmermans,Netherlands,1941,0,Court of Justice,judge,False,2000-10-07,2010-06-10,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_PT_CUN_ROD,da Cunha Rodrigues,da Cunha Rodrigues,José Narciso da Cunha Rodrigues,José Narciso,da Cunha Rodrigues,Portugal,1940,0,Court of Justice,judge,False,2000-10-07,2012-10-08,1,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_SE_BAH,von Bahr,von Bahr,Stig von Bahr,Stig,von Bahr,Sweden,1939,0,Court of Justice,judge,False,2000-10-07,2006-10-06,1,0,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_FI_ROS,Rosas,Rosas,Allan Rosas,Allan,Rosas,Finland,1948,0,Court of Justice,judge,False,2002-01-17,2019-10-07,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_BE_LEN,Lenaerts,Lenaerts,Koen Lenaerts,Koen,Lenaerts,Belgium,1954,0,Court of Justice,judge,True,2003-10-07,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_ES_SIL_LAP,Silva de Lapuerta,Silva de Lapuerta,Rosario Silva de Lapuerta,Rosario,Silva de Lapuerta,Spain,1954,1,Court of Justice,judge,False,2003-10-07,2021-10-07,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_UK_SCH,Schiemann,Schiemann,Konrad Hermann Theodor Schiemann,Konrad Hermann Theodor,Schiemann,United Kingdom,1937,0,Court of Justice,judge,False,2004-01-08,2012-10-08,1,0,0,1,0
+ACT_EU_INST_CJEU_JUDG_AG_CY_ARE,Arestis,Arestis,George Arestis,George,Arestis,Cyprus,1945,0,Court of Justice,judge,False,2004-05-11,2014-10-06,1,0,0,1,0
+ACT_EU_INST_CJEU_JUDG_AG_CZ_MAL,Malenovský,Malenovsky,Jiří Malenovský,Jiří,Malenovský,Czechia,1950,0,Court of Justice,judge,False,2004-05-11,2020-10-06,1,1,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_EE_LOH,Lõhmus,Lohmus,Uno Lõhmus,Uno,Lõhmus,Estonia,1952,0,Court of Justice,judge,False,2004-05-11,2013-10-23,1,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_HU_JUH,Juhász,Juhasz,Endre Juhász,Endre,Juhász,Hungary,1944,0,Court of Justice,judge,False,2004-05-11,2021-10-07,0,0,1,1,1
+ACT_EU_INST_CJEU_JUDG_AG_LT_KUR,Kūris,Kuris,Pranas Kūris,Pranas,Kūris,Lithuania,1938,0,Court of Justice,judge,False,2004-05-11,2010-10-06,1,1,1,0,1
+ACT_EU_INST_CJEU_JUDG_AG_LV_LEV,Levits,Levits,Egils Levits,Egils,Levits,Latvia,1955,0,Court of Justice,judge,False,2004-05-11,2019-06-17,1,1,0,0,1
+ACT_EU_INST_CJEU_JUDG_AG_MT_BOR_BAR,Borg Barthet,Borg Barthet,Anthony Borg Barthet,Anthony,Borg Barthet,Malta,1947,0,Court of Justice,judge,False,2004-05-11,2018-10-08,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_PL_MAK,Makarczyk,Makarczyk,Jerzy Makarczyk,Jerzy,Makarczyk,Poland,1938,0,Court of Justice,judge,False,2004-05-11,2009-10-06,1,1,1,0,1
+ACT_EU_INST_CJEU_JUDG_AG_SI_ILE,Ilešič,Ilesic,Marko Ilešič,Marko,Ilešič,Slovenia,1947,0,Court of Justice,judge,False,2004-05-11,2025-06-14,1,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_SK_KLU,Klučka,Klucka,Ján Klučka,Ján,Klučka,Slovakia,1951,0,Court of Justice,judge,False,2004-05-11,2009-10-06,1,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_IE_O_CAO,Ó Caoimh,O Caoimh,Aindrias Ó Caoimh,Aindrias,Ó Caoimh,Ireland,1950,0,Court of Justice,judge,False,2004-10-13,2015-10-07,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_DK_BAY_LAR,Bay Larsen,Bay Larsen,Lars Bay Larsen,Lars,Bay Larsen,Denmark,1953,0,Court of Justice,judge,False,2006-01-11,2024-10-06,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_IT_TIZ,Tizzano,Tizzano,Antonio Tizzano,Antonio,Tizzano,Italy,1940,0,Court of Justice,judge,False,2006-05-04,2018-10-08,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_DE_DAN,von Danwitz,von Danwitz,Thomas von Danwitz,Thomas,von Danwitz,Germany,1962,0,Court of Justice,judge,True,2006-10-07,,1,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_FR_BON,Bonichot,Bonichot,Jean-Claude Bonichot,Jean-Claude,Bonichot,France,1955,0,Court of Justice,judge,True,2006-10-07,,1,1,1,1,1
+ACT_EU_INST_CJEU_JUDG_AG_SE_LIN,Lindh,Lindh,Pernilla Lindh,Pernilla,Lindh,Sweden,1945,1,Court of Justice,judge,False,2006-10-07,2011-10-06,1,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_BG_ARA,Arabadjiev,Arabadjiev,Alexander Arabadjiev,Alexander,Arabadjiev,Bulgaria,1949,0,Court of Justice,judge,True,2007-01-12,,1,0,0,0,1
+ACT_EU_INST_CJEU_JUDG_AG_RO_TOA,Toader,Toader,Camelia Toader,Camelia,Toader,Romania,1963,1,Court of Justice,judge,False,2007-01-12,2021-10-07,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_LU_KAS,Kasel,Kasel,Jean-Jacques Kasel,Jean-Jacques,Kasel,Luxembourg,1946,0,Court of Justice,judge,False,2008-01-15,2013-10-07,0,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_AT_BER,Berger,Berger,Maria Berger,Maria,Berger,Austria,1956,1,Court of Justice,judge,False,2009-10-07,2019-03-20,0,1,1,0,1
+ACT_EU_INST_CJEU_JUDG_AG_PL_SAF,Safjan,Safjan,Marek Safjan,Marek,Safjan,Poland,1949,0,Court of Justice,judge,True,2009-10-07,,1,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_SK_SVA,Šváby,Svaby,Daniel Šváby,Daniel,Šváby,Slovakia,1951,0,Court of Justice,judge,False,2009-10-07,2021-10-07,1,0,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_NL_PRE,Prechal,Prechal,Alexandra Prechal,Alexandra,Prechal,Netherlands,1959,1,Court of Justice,judge,False,2010-06-10,2024-10-06,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_LT_JARA,Jarašiūnas,Jarasiunas,Egidijus Jarašiūnas,Egidijus,Jarašiūnas,Lithuania,1952,0,Court of Justice,judge,False,2010-10-06,2018-10-08,1,1,1,0,1
+ACT_EU_INST_CJEU_JUDG_AG_SE_FER,Fernlund,Fernlund,Carl Gustav Fernlund,Carl Gustav,Fernlund,Sweden,1950,0,Court of Justice,judge,False,2011-10-06,2019-10-07,1,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_PT_CRU_VIL,da Cruz Vilaça,da Cruz Vilaca,José Luis da Cruz Vilaça,José Luis,da Cruz Vilaça,Portugal,1944,0,Court of Justice,judge,False,2012-10-08,2018-10-08,0,1,0,0,1
+ACT_EU_INST_CJEU_JUDG_AG_UK_VAJ,Vajda,Vajda,Christopher Vajda,Christopher,Vajda,United Kingdom,1955,0,Court of Justice,judge,False,2012-10-08,2020-01-31,0,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_HR_ROD,Rodin,Rodin,Siniša Rodin,Siniša,Rodin,Croatia,1965,0,Court of Justice,judge,True,2013-07-04,,1,1,0,0,1
+ACT_EU_INST_CJEU_JUDG_AG_LU_BIL,Biltgen,Biltgen,François Biltgen,François,Biltgen,Luxembourg,1958,0,Court of Justice,judge,True,2013-10-07,,1,0,0,1,1
+ACT_EU_INST_CJEU_JUDG_AG_EE_JUR,Jürimäe,Jurimae,Küllike Jürimäe,Küllike,Jürimäe,Estonia,1962,1,Court of Justice,judge,True,2013-10-23,,1,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_CY_LYC,Lycourgos,Lycourgos,Constantinos Lycourgos,Constantinos,Lycourgos,Cyprus,1964,0,Court of Justice,judge,True,2014-10-08,,1,0,1,1,1
+ACT_EU_INST_CJEU_JUDG_AG_EL_VIL,Vilaras,Vilaras,Michail Vilaras,Michail,Vilaras,Greece,1950,0,Court of Justice,judge,False,2015-10-07,2021-10-07,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_IE_REG,Regan,Regan,Eugene Regan,Eugene,Regan,Ireland,1952,0,Court of Justice,judge,True,2015-10-07,,1,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_IT_ROS_L,"Rossi, L.","Rossi, L.",Lucia Serena Rossi,Lucia Serena,Rossi,Italy,1958,1,Court of Justice,judge,False,2018-10-08,2024-10-06,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_LT_JARU,Jarukaitis,Jarukaitis,Irmantas Jarukaitis,Irmantas,Jarukaitis,Lithuania,1973,0,Court of Justice,judge,True,2018-10-08,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_MT_XUE,Xuereb,Xuereb,Peter George Xuereb,Peter George,Xuereb,Malta,1954,0,Court of Justice,judge,True,2018-10-08,,0,1,0,1,1
+ACT_EU_INST_CJEU_JUDG_AG_PT_CAR_SIL_PIC,Cardoso da Silva Piçarra,Cardoso da Silva Picarra,Nuno José Cardoso da Silva Piçarra,Nuno José,Cardoso da Silva Piçarra,Portugal,1957,0,Court of Justice,judge,True,2018-10-08,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_AT_KUM,Kumin,Kumin,Andreas Kumin,Andreas,Kumin,Austria,1965,0,Court of Justice,judge,True,2019-03-20,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_FI_JAA,Jääskinen,Jaaskinen,Niilo Jääskinen,Niilo,Jääskinen,Finland,1958,0,Court of Justice,judge,True,2019-10-07,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_SE_WAH,Wahl,Wahl,Nils Wahl,Nils,Wahl,Sweden,1961,0,Court of Justice,judge,True,2019-10-07,,0,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_CZ_PAS,Passer,Passer,Jan Passer,Jan,Passer,Czechia,1974,0,Court of Justice,judge,True,2020-10-06,,1,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_LV_ZIE,Ziemele,Ziemele,Ineta Ziemele,Ineta,Ziemele,Latvia,1970,1,Court of Justice,judge,True,2020-10-06,,1,1,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_EL_GRA,Gratsias,Gratsias,Dimitrios Gratsias,Dimitrios,Gratsias,Greece,1957,0,Court of Justice,judge,True,2021-10-07,,1,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_ES_ARA_SAH,Arastey Sahún,Arastey Sahun,Maria Lourdes Arastey Sahún,Maria Lourdes,Arastey Sahún,Spain,1959,1,Court of Justice,judge,True,2021-10-07,,1,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_HU_CSE,Csehi,Csehi,Zoltán Csehi,Zoltán,Csehi,Hungary,1965,0,Court of Justice,judge,True,2021-10-07,,1,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_RO_SPI_MAT,Spineanu-Matei,Spineanu-Matei,Octavia Spineanu-Matei,Octavia,Spineanu-Matei,Romania,1967,1,Court of Justice,judge,True,2021-10-07,,1,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_SK_GAV,Gavalec,Gavalec,Miroslav Gavalec,Miroslav,Gavalec,Slovakia,1961,0,Court of Justice,judge,True,2021-10-07,,1,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_DK_FEN,Fenger,Fenger,Niels Fenger,Niels,Fenger,Denmark,1968,0,Court of Justice,judge,True,2024-10-07,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_IT_CON,Condinanzi,Condinanzi,Massimo Condinanzi,Massimo,Condinanzi,Italy,1964,0,Court of Justice,judge,True,2024-10-07,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_NL_SMU,Smulders,Smulders,Bernardus Maria Polycarpus Smulders,Bernardus Maria Polycarpus,Smulders,Netherlands,1960,0,Court of Justice,judge,True,2024-10-07,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_SI_BOS,Bosnjak,Bosnjak,Marko Bošnjak,Marko,Bosnjak,Slovenia,1974,0,Court of Justice,judge,True,2025-06-15,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_IT_PIL,Pilotti,Pilotti,Massimo Pilotti,Massimo,Pilotti,Italy,1879,0,Court of Justice,President,False,1952-12-04,1958-10-06,1,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_NL_DON,Donner,Donner,Andreas Matthias Donner,Andreas Matthias,Donner,Netherlands,1918,0,Court of Justice,President,False,1958-10-07,1964-10-07,0,1,0,1,0
+ACT_EU_INST_CJEU_JUDG_AG_LU_HAM,Hammes,Hammes,Charles Léon Hammes,Charles Léon,Hammes,Luxembourg,1898,0,Court of Justice,President,False,1964-10-08,1967-10-09,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_FR_LEC,Lecourt,Lecourt,Robert Lecourt,Robert,Lecourt,France,1908,0,Court of Justice,President,False,1967-10-10,1976-10-25,0,0,1,1,1
+ACT_EU_INST_CJEU_JUDG_AG_DE_KUT,Kutscher,Kutscher,Hans Kutscher,Hans,Kutscher,Germany,1911,0,Court of Justice,President,False,1976-10-07,1980-10-31,0,0,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_BE_MER_WIL,Mertens de Wilmars,Mertens de Wilmars,Josse Mertens de Wilmars,Josse,Mertens de Wilmars,Belgium,1912,0,Court of Justice,President,False,1980-10-30,1984-04-10,0,1,0,1,1
+ACT_EU_INST_CJEU_JUDG_AG_UK_MAC_STU,Mackenzie Stuart,Mackenzie Stuart,Alexander Mackenzie Stuart,Alexander,Mackenzie Stuart,United Kingdom,1924,0,Court of Justice,President,False,1984-04-10,1988-10-06,1,0,0,1,0
+ACT_EU_INST_CJEU_JUDG_AG_DK_DUE,Due,Due,Ole Due,Ole,Due,Denmark,1931,0,Court of Justice,President,False,1988-10-06,1994-10-06,0,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_ES_ROD_IGL,Rodríguez Iglesias,Rodriguez Iglesias,Gil Carlos Rodríguez Iglesias,Gil Carlos,Rodríguez Iglesias,Spain,1946,0,Court of Justice,President,False,1994-10-07,2003-10-06,0,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_EL_SKO,Skouris,Skouris,Vassilios Skouris,Vassilios,Skouris,Greece,1948,0,Court of Justice,President,False,2003-10-07,2015-10-08,1,1,0,0,1
+ACT_EU_INST_CJEU_JUDG_AG_BE_LEN,Lenaerts,Lenaerts,Koen Lenaerts,Koen,Lenaerts,Belgium,1954,0,Court of Justice,President,True,2015-10-08,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_BE_LEN,Lenaerts,Lenaerts,Koen Lenaerts,Koen,Lenaerts,Belgium,1954,0,Court of Justice,Vice-President,False,2012-10-09,2015-10-08,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_IT_TIZ,Tizzano,Tizzano,Antonio Tizzano,Antonio,Tizzano,Italy,1940,0,Court of Justice,Vice-President,False,2015-10-08,2018-10-08,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_ES_SIL_LAP,Silva de Lapuerta,Silva de Lapuerta,Rosario Silva de Lapuerta,Rosario,Silva de Lapuerta,Spain,1954,1,Court of Justice,Vice-President,False,2018-10-09,2021-10-07,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_DK_BAY_LAR,Bay Larsen,Bay Larsen,Lars Bay Larsen,Lars,Bay Larsen,Denmark,1953,0,Court of Justice,Vice-President,False,2021-10-08,2024-10-06,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_DE_DAN,von Danwitz,von Danwitz,Thomas von Danwitz,Thomas,von Danwitz,Germany,1962,0,Court of Justice,Vice-President,True,2024-10-07,,1,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_BE_LEN,Lenaerts,Lenaerts,Koen Lenaerts,Koen,Lenaerts,Belgium,1954,0,General Court,judge,False,1989-09-25,2003-10-06,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_DE_KIR,Kirschner,Kirschner,Heinrich Kirschner,Heinrich,Kirschner,Germany,1938,0,General Court,judge,False,1989-09-25,1997-02-06,0,0,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_DK_VES,Vesterdorf,Vesterdorf,Bo Vesterdorf,Bo,Vesterdorf,Denmark,1945,0,General Court,judge,False,1989-09-25,2007-09-17,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_EL_YER,Yeraris,Yeraris,Christos Yeraris,Christos,Yeraris,Greece,1938,0,General Court,judge,False,1989-09-25,1992-09-18,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_ES_GAR_VAL_FER,García-Valdecasas y Fernández,Garcia-Valdecasas y Fernandez,Rafael García-Valdecasas y Fernández,Rafael,García-Valdecasas y Fernández,Spain,1946,0,General Court,judge,False,1989-09-25,2007-09-17,0,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_FR_BIA,Biancarelli,Biancarelli,Jacques Biancarelli,Jacques,Biancarelli,France,1948,0,General Court,judge,False,1989-09-25,1995-09-18,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_IE_BAR,Barrington,Barrington,Donal Patrick Michael Barrington,Donal Patrick Michael,Barrington,Ireland,1928,0,General Court,judge,False,1989-09-25,1996-01-10,1,0,0,1,0
+ACT_EU_INST_CJEU_JUDG_AG_IT_SAG,Saggio,Saggio,Antonio Saggio,Antonio,Saggio,Italy,1934,0,General Court,judge,False,1989-09-25,1998-03-04,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_LU_SCHI,Schintgen,Schintgen,Romain Schintgen,Romain,Schintgen,Luxembourg,1939,0,General Court,judge,False,1989-09-25,1996-07-11,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_NL_BRI,Briët,Briet,Cornelis Paulus Briët,Cornelis Paulus,Briët,Netherlands,1944,0,General Court,judge,False,1989-09-25,1998-09-17,1,0,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_PT_CRU_VIL,da Cruz Vilaça,da Cruz Vilaca,José Luis da Cruz Vilaça,José Luis,da Cruz Vilaça,Portugal,1944,0,General Court,judge,False,1989-09-25,1995-09-18,0,1,0,0,1
+ACT_EU_INST_CJEU_JUDG_AG_UK_EDW,Edward,Edward,David Alexander Ogilvy Edward,David Alexander Ogilvy,Edward,United Kingdom,1934,0,General Court,judge,False,1989-09-25,1992-03-10,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_UK_BEL,Bellamy,Bellamy,Christopher William Bellamy,Christopher William,Bellamy,United Kingdom,1946,0,General Court,judge,False,1992-03-10,1999-12-15,0,0,0,1,0
+ACT_EU_INST_CJEU_JUDG_AG_EL_KAL,Kalogeropoulos,Kalogeropoulos,Andreas Kalogeropoulos,Andreas,Kalogeropoulos,Greece,1944,0,General Court,judge,False,1992-09-18,1998-09-17,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_AT_AZI,Azizi,Azizi,Josef Azizi,Josef,Azizi,Austria,1948,0,General Court,judge,False,1995-01-18,2013-09-16,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_FI_TII,Tiili,Tiili,Virpi Tiili,Virpi,Tiili,Finland,1942,1,General Court,judge,False,1995-01-18,2009-10-06,0,1,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_SE_LIN,Lindh,Lindh,Pernilla Lindh,Pernilla,Lindh,Sweden,1945,1,General Court,judge,False,1995-01-18,2006-10-06,1,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_FR_POT,Potocki,Potocki,André Potocki,André,Potocki,France,1950,0,General Court,judge,False,1995-09-18,2001-09-19,1,1,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_PT_GEN_MOU_RAM,Gens de Moura Ramos,Gens de Moura Ramos,Rui Manuel Gens de Moura Ramos,Rui Manuel,Gens de Moura Ramos,Portugal,1950,0,General Court,judge,False,1995-09-18,2003-03-31,0,1,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_IE_COO,Cooke,Cooke,John Cooke,John,Cooke,Ireland,1944,0,General Court,judge,False,1996-01-10,2008-09-15,0,1,0,1,0
+ACT_EU_INST_CJEU_JUDG_AG_LU_JAE,Jaeger,Jaeger,Marc Jaeger,Marc,Jaeger,Luxembourg,1954,0,General Court,judge,True,1996-07-11,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_DE_PIR,Pirrung,Pirrung,Jörg Pirrung,Jörg,Pirrung,Germany,1940,0,General Court,judge,False,1997-06-11,2007-09-17,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_IT_MEN,Mengozzi,Mengozzi,Paolo Mengozzi,Paolo,Mengozzi,Italy,1938,0,General Court,judge,False,1998-03-04,2006-05-03,0,1,0,0,1
+ACT_EU_INST_CJEU_JUDG_AG_EL_VIL,Vilaras,Vilaras,Michail Vilaras,Michail,Vilaras,Greece,1950,0,General Court,judge,False,1998-09-17,2010-10-25,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_NL_MEI,Meij,Meij,Arjen Meij,Arjen,Meij,Netherlands,1944,0,General Court,judge,False,1998-09-17,2010-09-13,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_UK_FORW,Forwood,Forwood,Nicholas James Forwood,Nicholas James,Forwood,United Kingdom,1948,0,General Court,judge,False,1999-12-15,2015-10-07,0,0,0,1,0
+ACT_EU_INST_CJEU_JUDG_AG_FR_LEGA,Legal,Legal,Hubert Legal,Hubert,Legal,France,1954,0,General Court,judge,False,2001-09-19,2007-09-17,0,0,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_PT_MAR_NAZ_RIB,Martins de Nazaré Ribeiro,Martins de Nazare Ribeiro,Maria Eugénia Martins de Nazaré Ribeiro,Maria Eugénia,Martins de Nazaré Ribeiro,Portugal,1956,1,General Court,judge,False,2003-03-31,2016-09-19,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_BE_DEH,Dehousse,Dehousse,Franklin Dehousse,Franklin,Dehousse,Belgium,1959,0,General Court,judge,False,2003-10-06,2016-09-19,0,1,1,1,1
+ACT_EU_INST_CJEU_JUDG_AG_CY_PAP,Papasavvas,Papasavvas,Savvas Papasavvas,Savvas,Papasavvas,Cyprus,1969,0,General Court,judge,True,2004-05-12,,1,1,0,1,0
+ACT_EU_INST_CJEU_JUDG_AG_CZ_PEL,Pelikánová,Pelikanova,Irena Pelikánová,Irena,Pelikánová,Czechia,1949,1,General Court,judge,False,2004-05-12,2019-09-26,0,1,0,1,0
+ACT_EU_INST_CJEU_JUDG_AG_EE_JUR,Jürimäe,Jurimae,Küllike Jürimäe,Küllike,Jürimäe,Estonia,1962,1,General Court,judge,False,2004-05-12,2013-10-23,1,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_HU_CZU,Czúcz,Czucz,Ottó Czúcz,Ottó,Czúcz,Hungary,1946,0,General Court,judge,False,2004-05-12,2016-09-19,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_LT_VAD,Vadapalas,Vadapalas,Vilenas Vadapalas,Vilenas,Vadapalas,Lithuania,1954,0,General Court,judge,False,2004-05-12,2013-09-16,0,1,0,0,1
+ACT_EU_INST_CJEU_JUDG_AG_LV_LAB,Labucka,Labucka,Ingrida Labucka,Ingrida,Labucka,Latvia,1963,1,General Court,judge,False,2004-05-12,2020-02-25,1,0,1,1,1
+ACT_EU_INST_CJEU_JUDG_AG_MT_CRE,Cremona,Cremona,Ena Cremona,Ena,Cremona,Malta,1936,1,General Court,judge,False,2004-05-12,2012-03-22,0,1,0,1,0
+ACT_EU_INST_CJEU_JUDG_AG_PL_WIS_BIA,Wiszniewska-Białecka,Wiszniewska-Bialecka,Irena Wiszniewska-Białecka,Irena,Wiszniewska-Białecka,Poland,1957,1,General Court,judge,False,2004-05-12,2016-09-19,0,1,0,1,0
+ACT_EU_INST_CJEU_JUDG_AG_SK_SVA,Šváby,Svaby,Daniel Šváby,Daniel,Šváby,Slovakia,1951,0,General Court,judge,False,2004-05-12,2009-10-06,1,0,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_SI_TRS,Trstenjak,Trstenjak,Verica Trstenjak,Verica,Trstenjak,Slovenia,1962,0,General Court,judge,False,2004-07-07,2006-10-06,0,1,1,1,1
+ACT_EU_INST_CJEU_JUDG_AG_IT_MOA_MIL,Moavero Milanesi,Moavero Milanesi,Enzo Moavero Milanesi,Enzo,Moavero Milanesi,Italy,1954,0,General Court,judge,False,2006-05-03,2011-11-15,0,1,1,1,1
+ACT_EU_INST_CJEU_JUDG_AG_SE_WAH,Wahl,Wahl,Nils Wahl,Nils,Wahl,Sweden,1961,0,General Court,judge,False,2006-10-06,2012-11-28,0,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_SI_PRE,Prek,Prek,Miro Prek,Miro,Prek,Slovenia,1956,0,General Court,judge,False,2006-10-06,2019-09-26,0,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_BG_TCH,Tchipev,Tchipev,Teodor Tchipev,Teodor,Tchipev,Bulgaria,1940,0,General Court,judge,False,2007-01-12,2010-06-29,1,1,1,1,1
+ACT_EU_INST_CJEU_JUDG_AG_RO_CIU,Ciucă,Ciuca,Valeriu Ciucă,Valeriu,Ciucă,Romania,1960,0,General Court,judge,False,2007-01-12,2010-11-26,1,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_DE_DIT,Dittrich,Dittrich,Alfred Dittrich,Alfred,Dittrich,Germany,1950,0,General Court,judge,False,2007-09-17,2019-09-26,0,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_DK_FRI_NIE,Frimodt Nielsen,Frimodt Nielsen,Sten Frimodt Nielsen,Sten,Frimodt Nielsen,Denmark,1963,0,General Court,judge,False,2007-09-17,2023-09-27,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_ES_SOL_FRA,Soldevila Fragoso,Soldevila Fragoso,Santiago Soldevila Fragoso,Santiago,Soldevila Fragoso,Spain,1960,0,General Court,judge,False,2007-09-17,2013-09-16,1,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_FR_TRU,Truchot,Truchot,Laurent Truchot,Laurent,Truchot,France,1962,0,General Court,judge,False,2007-09-17,2013-09-16,1,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_IE_O_HIG_K,"O'Higgins, K.","O'Higgins, K.",Kevin O'Higgins,Kevin,O'Higgins,Ireland,1946,0,General Court,judge,False,2008-09-15,2013-09-16,1,0,0,1,0
+ACT_EU_INST_CJEU_JUDG_AG_FI_KAN,Kanninen,Kanninen,Heikki Kanninen,Heikki,Kanninen,Finland,1952,0,General Court,judge,True,2009-10-06,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_SK_SCH,Schwarcz,Schwarcz,Juraj Schwarcz,Juraj,Schwarcz,Slovakia,1952,0,General Court,judge,False,2009-10-06,2022-08-31,1,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_NL_WOU,van der Woude,van der Woude,Marc van der Woude,Marc,van der Woude,Netherlands,1960,0,General Court,judge,True,2010-09-13,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_EL_GRA,Gratsias,Gratsias,Dimitrios Gratsias,Dimitrios,Gratsias,Greece,1957,0,General Court,judge,False,2010-10-25,2021-10-07,1,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_RO_POP,Popescu,Popescu,Andrei Popescu,Andrei,Popescu,Romania,1948,0,General Court,judge,False,2010-11-26,2016-09-19,0,1,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_BG_KAN,Kancheva,Kancheva,Mariyana Kancheva,Mariyana,Kancheva,Bulgaria,1958,1,General Court,judge,True,2011-09-19,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_IT_BER,Berardis,Berardis,Guido Berardis,Guido,Berardis,Italy,1950,0,General Court,judge,False,2012-09-17,2019-08-31,0,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_MT_BUT,Buttigieg,Buttigieg,Eugène Buttigieg,Eugène,Buttigieg,Malta,1961,0,General Court,judge,True,2012-10-08,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_SE_WET,Wetter,Wetter,Carl Wetter,Carl,Wetter,Sweden,1949,0,General Court,judge,False,2013-03-18,2016-09-19,0,1,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_HR_TOM,Tomljenović,Tomljenovic,Vesna Tomljenović,Vesna,Tomljenović,Croatia,1956,1,General Court,judge,False,2013-07-04,2025-09-14,0,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_AT_KRE,Kreuschitz,Kreuschitz,Viktor Kreuschitz,Viktor,Kreuschitz,Austria,1952,0,General Court,judge,False,2013-09-16,2022-09-15,0,1,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_ES_ULL_RUB,Ulloa Rubio,Ulloa Rubio,Ignacio Ulloa Rubio,Ignacio,Ulloa Rubio,Spain,1967,0,General Court,judge,False,2013-09-16,2019-09-26,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_FR_GER,Gervasoni,Gervasoni,Stéphane Gervasoni,Stéphane,Gervasoni,France,1967,0,General Court,judge,False,2013-09-16,2024-10-06,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_IE_COL,Collins,Collins,Anthony Michael Collins,Anthony Michael,Collins,Ireland,1960,0,General Court,judge,False,2013-09-16,2021-10-07,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_LT_BIE,Bieliūnas,Bieliunas,Egidijus Bieliūnas,Egidijus,Bieliūnas,Lithuania,1950,0,General Court,judge,False,2013-09-16,2019-09-26,1,1,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_EE_MAD,Madise,Madise,Lauri Madise,Lauri,Madise,Estonia,1974,0,General Court,judge,True,2013-10-23,,1,0,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_UK_FORR,Forrester,Forrester,Ian Stewart Forrester,Ian Stewart,Forrester,United Kingdom,1945,0,General Court,judge,False,2015-10-07,2020-01-31,0,1,0,1,0
+ACT_EU_INST_CJEU_JUDG_AG_CY_MAR,Marcoulli,Marcoulli,Anna Marcoulli,Anna,Marcoulli,Cyprus,1978,1,General Court,judge,True,2016-04-13,,1,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_EL_ILI,Iliopoulos,Iliopoulos,Constantinos Iliopoulos,Constantinos,Iliopoulos,Greece,1948,0,General Court,judge,False,2016-04-13,2022-09-15,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_ES_CAL_SOT_IBA_MAR,Calvo-Sotelo Ibáñez-Martín,Calvo-Sotelo Ibanez-Martin,Leopoldo Calvo-Sotelo Ibáñez-Martín,Leopoldo,Calvo-Sotelo Ibáñez-Martín,Spain,1957,0,General Court,judge,False,2016-04-13,2019-09-26,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_HU_CSE,Csehi,Csehi,Zoltán Csehi,Zoltán,Csehi,Hungary,1965,0,General Court,judge,False,2016-04-13,2021-10-07,1,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_LT_VAL,Valančius,Valancius,Virgilijus Valančius,Virgilijus,Valančius,Lithuania,1963,0,General Court,judge,False,2016-04-13,2023-09-27,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_LU_SPI,Spielmann,Spielmann,Dean Spielmann,Dean,Spielmann,Luxembourg,1962,0,General Court,judge,False,2016-04-13,2024-10-06,1,1,0,1,0
+ACT_EU_INST_CJEU_JUDG_AG_PL_POL,Półtorak,Poltorak,Nina Półtorak,Nina,Półtorak,Poland,1971,1,General Court,judge,False,2016-04-13,2016-08-31,1,1,0,1,0
+ACT_EU_INST_CJEU_JUDG_AG_LV_REI,Reine,Reine,Inga Reine,Inga,Reine,Latvia,1975,1,General Court,judge,True,2016-06-08,,1,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_MT_XUE,Xuereb,Xuereb,Peter George Xuereb,Peter George,Xuereb,Malta,1954,0,General Court,judge,False,2016-06-08,2018-10-08,0,1,0,1,1
+ACT_EU_INST_CJEU_JUDG_AG_SE_SCH,Schalin,Schalin,Fredrik Schalin,Fredrik,Schalin,Sweden,1964,0,General Court,judge,False,2016-06-08,2025-06-15,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_BE_NIH,Nihoul,Nihoul,Paul Nihoul,Paul,Nihoul,Belgium,1963,0,General Court,judge,True,2016-09-19,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_BG_KOR,Kornezov,Kornezov,Alexander Kornezov,Alexander,Kornezov,Bulgaria,1978,0,General Court,judge,True,2016-09-19,,1,1,0,1,0
+ACT_EU_INST_CJEU_JUDG_AG_CZ_PAS,Passer,Passer,Jan Passer,Jan,Passer,Czechia,1974,0,General Court,judge,False,2016-09-19,2020-10-06,1,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_DK_SVE,Svenningsen,Svenningsen,Jesper Svenningsen,Jesper,Svenningsen,Denmark,1966,0,General Court,judge,True,2016-09-19,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_HU_BER,Berke,Berke,Barna Berke,Barna,Berke,Hungary,1966,0,General Court,judge,False,2016-09-19,2021-08-01,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_IT_PERI,Perillo,Perillo,Ezio Perillo,Ezio,Perillo,Italy,1950,0,General Court,judge,False,2016-09-19,2019-09-26,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_NL_BAR,Barents,Barents,René Barents,René,Barents,Netherlands,1951,0,General Court,judge,False,2016-09-19,2022-09-15,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_PL_KOW_BAN,Kowalik-Bańczyk,Kowalik-Banczyk,Krystyna Kowalik-Bańczyk,Krystyna,Kowalik-Bańczyk,Poland,1976,0,General Court,judge,False,2016-09-19,2022-08-31,1,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_PT_COS,Costeira,Costeira,Maria José Costeira,Maria José,Costeira,Portugal,1967,1,General Court,judge,True,2016-09-19,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_PT_SIL_PAS,da Silva Passos,da Silva Passos,Ricardo da Silva Passos,Ricardo,da Silva Passos,Portugal,1953,0,General Court,judge,True,2016-09-19,,1,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_RO_SPI_MAT,Spineanu-Matei,Spineanu-Matei,Octavia Spineanu-Matei,Octavia,Spineanu-Matei,Romania,1967,1,General Court,judge,False,2016-09-19,2021-10-07,1,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_SE_OBE,Öberg,Oberg,Ulf Christophe Öberg,Ulf Christophe,Öberg,Sweden,1966,0,General Court,judge,True,2016-09-19,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_IE_MAC_EOC,Mac Eochaidh,Mac Eochaidh,Colm Mac Eochaidh,Colm,Mac Eochaidh,Ireland,1963,0,General Court,judge,True,2017-06-08,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_BE_BAE,De Baere,De Baere,Geert De Baere,Geert,De Baere,Belgium,1979,0,General Court,judge,True,2017-10-04,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_MT_FRE,Frendo,Frendo,Ramona Frendo,Ramona,Frendo,Malta,1971,1,General Court,judge,True,2019-03-20,,1,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_AT_HES,Hesse,Hesse,Gerhard Hesse,Gerhard,Hesse,Austria,1970,0,General Court,judge,True,2019-09-26,,1,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_CZ_SKV_PEL,Škvařilová-Pelzl,Skvarilova-Pelzl,Petra Škvařilová-Pelzl,Petra,Škvařilová-Pelzl,Czechia,1975,1,General Court,judge,True,2019-09-26,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_DE_LAI,Laitenberger,Laitenberger,Johannes Christoph Laitenberger,Johannes Christoph,Laitenberger,Germany,1964,0,General Court,judge,True,2019-09-26,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_DE_STE,Steinfatt,Steinfatt,Gabriele Steinfatt,Gabriele,Steinfatt,Germany,1977,1,General Court,judge,True,2019-09-26,,1,1,0,0,0
+ACT_EU_INST_CJEU_JUDG_AG_EE_NOM,Nõmm,Nomm,Iko Nõmm,Iko,Nõmm,Estonia,1977,0,General Court,judge,True,2019-09-26,,1,0,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_ES_MAR_PER_NAN,Martín y Pérez de Nanclares,Martin y Perez de Nanclares,José Martín y Pérez de Nanclares,José,Martín y Pérez de Nanclares,Spain,1965,0,General Court,judge,True,2019-09-26,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_ES_SAM_PUC,Sampol Pucurull,Sampol Pucurull,Miguel Sampol Pucurull,Miguel,Sampol Pucurull,Spain,1974,0,General Court,judge,True,2019-09-26,,1,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_FI_PYN,Pynnä,Pynna,Tuula Riitta Pynnä,Tuula Riitta,Pynnä,Finland,1958,1,General Court,judge,True,2019-09-26,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_FR_TRU,Truchot,Truchot,Laurent Truchot,Laurent,Truchot,France,1962,0,General Court,judge,True,2019-09-26,,1,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_HR_PER,Perišin,Perisin,Tamara Perišin,Tamara,Perišin,Croatia,1979,1,General Court,judge,True,2019-09-26,,1,1,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_IT_MAS,Mastroianni,Mastroianni,Roberto Mastroianni,Roberto,Mastroianni,Italy,1964,0,General Court,judge,False,2019-09-26,2025-09-14,0,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_IT_POR,Porchia,Porchia,Ornella Porchia,Ornella,Porchia,Italy,1966,1,General Court,judge,False,2019-09-26,2025-09-14,0,1,0,1,0
+ACT_EU_INST_CJEU_JUDG_AG_LT_NOR,Norkus,Norkus,Rimvydas Norkus,Rimvydas,Norkus,Lithuania,1979,0,General Court,judge,False,2019-09-26,2025-06-14,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_RO_STA,Stancu,Stancu,Mirela Stancu,Mirela,Stancu,Romania,1974,1,General Court,judge,True,2019-09-26,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_CZ_PET,Petrlík,Petrlik,David Petrlík,David,Petrlík,Czechia,1978,0,General Court,judge,True,2021-03-01,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_SI_BRK,Brkan,Brkan,Maja Brkan,Maja,Brkan,Slovenia,1979,1,General Court,judge,True,2021-07-06,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_LV_ZIL,Zilgalvis,Zilgalvis,Pēteris Zilgalvis,Pēteris,Zilgalvis,Latvia,1964,0,General Court,judge,True,2021-09-27,,1,0,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_HU_KEC,Kecsmár,Kecsmar,Krisztián Attila Kecsmár,Krisztián Attila,Kecsmár,Hungary,1975,0,General Court,judge,True,2021-10-27,,1,1,1,1,1
+ACT_EU_INST_CJEU_JUDG_AG_RO_GAL,Gâlea,Galea,Ion Gâlea,Ion,Gâlea,Romania,1978,0,General Court,judge,True,2021-10-27,,1,1,1,0,1
+ACT_EU_INST_CJEU_JUDG_AG_EL_DIM,Dimitrakopoulos,Dimitrakopoulos,Ioannis Dimitrakopoulos,Ioannis,Dimitrakopoulos,Greece,1971,0,General Court,judge,True,2022-01-13,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_IE_KIN,Kingston,Kingston,Suzanne Kingston,Suzanne,Kingston,Ireland,1977,1,General Court,judge,True,2022-01-13,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_SI_KUK,Kukovec,Kukovec,Damjan Kukovec,Damjan,Kukovec,Slovenia,1977,0,General Court,judge,True,2022-01-13,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_HU_TOT,Tóth,Toth,Tihamér Tóth,Tihamér,Tóth,Hungary,1971,0,General Court,judge,True,2022-07-06,,1,1,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_SK_RIC,Ricziová,Ricziova,Beatrix Ricziová,Beatrix,Ricziová,Slovakia,1981,1,General Court,judge,False,2022-07-06,2022-08-31,1,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_AT_TIC_FIS,Tichy-Fisslberger,Tichy-Fisslberger,Elisabeth Tichy-Fisslberger,Elisabeth,Tichy-Fisslberger,Austria,1957,1,General Court,judge,True,2022-09-15,,1,1,1,0,0
+ACT_EU_INST_CJEU_JUDG_AG_EL_VAL,Valasidis,Valasidis,William Valasidis,William,Valasidis,Greece,1971,0,General Court,judge,True,2022-09-15,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_NL_VER,Verschuur,Verschuur,Steven Verschuur,Steven,Verschuur,Netherlands,1977,0,General Court,judge,True,2022-09-15,,1,0,0,1,0
+ACT_EU_INST_CJEU_JUDG_AG_DK_SPA_GRO,Spangsberg Grønfeldt,Spangsberg Gronfeldt,Louise Spangsberg Grønfeldt,Louise,Spangsberg Grønfeldt,Denmark,1980,1,General Court,judge,True,2023-09-27,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_LT_KAL,Kalėda,Kaleda,Saulius Lukas Kalėda,Saulius Lukas,Kalėda,Lithuania,1976,0,General Court,judge,True,2023-09-27,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_FR_CAS,Cassagnabère,Cassagnabere,Hervé Cassagnabère,Hervé,Cassagnabère,France,1976,0,General Court,judge,True,2024-10-07,,1,1,1,1,1
+ACT_EU_INST_CJEU_JUDG_AG_LU_MEY,Meyer,Meyer,Raphaël Meyer,Raphaël,Meyer,Luxembourg,1979,0,General Court,judge,True,2024-10-07,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_LT_JOC,Jočienė,Jociene,Danutė Jočienė,Danutė,Jočienė,Lithuania,1970,1,General Court,judge,True,2025-06-15,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_SE_HET,Hettne,Hettne,Jörgen Hettne,Jörgen,Hettne,Sweden,1966,0,General Court,judge,True,2025-06-16,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_HR_PAV,Pavelin,Pavelin,Tanja Pavelin,Tanja,Pavelin,Croatia,1973,1,General Court,judge,True,2025-09-15,,1,1,0,1,0
+ACT_EU_INST_CJEU_JUDG_AG_IT_BES,Bestagno,Bestagno,Francesco Bestagno,Francesco,Bestagno,Italy,1966,0,General Court,judge,True,2025-09-15,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_IT_PEZ,Pezzuto,Pezzuto,Raffaella Pezzuto,Raffaella,Pezzuto,Italy,1971,1,General Court,judge,True,2025-09-15,,1,0,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_PT_CRU_VIL,da Cruz Vilaça,da Cruz Vilaca,José Luis da Cruz Vilaça,José Luis,da Cruz Vilaça,Portugal,1944,0,General Court,President,False,1989-09-25,1995-09-18,0,1,0,0,1
+ACT_EU_INST_CJEU_JUDG_AG_IT_SAG,Saggio,Saggio,Antonio Saggio,Antonio,Saggio,Italy,1934,0,General Court,President,False,1995-09-18,1998-03-04,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_DK_VES,Vesterdorf,Vesterdorf,Bo Vesterdorf,Bo,Vesterdorf,Denmark,1945,0,General Court,President,False,1998-03-04,2007-09-17,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_LU_JAE,Jaeger,Jaeger,Marc Jaeger,Marc,Jaeger,Luxembourg,1954,0,General Court,President,False,2007-09-17,2019-09-26,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_NL_WOU,van der Woude,van der Woude,Marc van der Woude,Marc,van der Woude,Netherlands,1960,0,General Court,President,True,2019-09-27,,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_FI_KAN,Kanninen,Kanninen,Heikki Kanninen,Heikki,Kanninen,Finland,1952,0,General Court,Vice-President,False,2013-09-17,2016-09-19,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_NL_WOU,van der Woude,van der Woude,Marc van der Woude,Marc,van der Woude,Netherlands,1960,0,General Court,Vice-President,False,2016-09-20,2019-09-26,1,1,1,1,0
+ACT_EU_INST_CJEU_JUDG_AG_CY_PAP,Papasavvas,Papasavvas,Savvas Papasavvas,Savvas,Papasavvas,Cyprus,1969,0,General Court,Vice-President,True,2019-09-27,,1,1,0,1,0
