@@ -1,0 +1,8 @@
+metric,n,pct_of_all_citations
+total_citations,283994,100.0
+both_endpoints_found,266217,93.74036071184602
+self_citations,2805,0.9876969231744333
+same_day_citations,5040,1.7746853806770566
+future_dated_citations,925,0.32571110657267405
+strict_past_citations,260252,91.6399642245963
+valid_rem_event_candidate,260252,91.6399642245963

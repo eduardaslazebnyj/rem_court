@@ -1,0 +1,100 @@
+feature,group,description
+decision_id,Identifiers / timing,IUROPA unique judgment identifier; node key.
+decision_date,Identifiers / timing,Judgment date; defines when the node enters the network.
+decision_year,Identifiers / timing,Calendar year of the judgment.
+court,Identifiers / timing,Court issuing the judgment.
+ecli,Identifiers / timing,Selected judgment-level feature constructed in this notebook.
+celex,Identifiers / timing,Selected judgment-level feature constructed in this notebook.
+case_id,Identifiers / timing,Selected judgment-level feature constructed in this notebook.
+case_number,Identifiers / timing,Selected judgment-level feature constructed in this notebook.
+proceeding_id,Identifiers / timing,Selected judgment-level feature constructed in this notebook.
+lead_proceeding_id,Identifiers / timing,Selected judgment-level feature constructed in this notebook.
+proceeding_number,Identifiers / timing,Selected judgment-level feature constructed in this notebook.
+proceeding_name,Identifiers / timing,Selected judgment-level feature constructed in this notebook.
+approx_years_lodging_to_decision,Procedure / case structure,Selected judgment-level feature constructed in this notebook.
+procedures,Procedure / case structure,Selected judgment-level feature constructed in this notebook.
+outcomes,Procedure / case structure,Selected judgment-level feature constructed in this notebook.
+n_procedures,Procedure / case structure,Selected judgment-level feature constructed in this notebook.
+n_outcomes,Procedure / case structure,Selected judgment-level feature constructed in this notebook.
+is_preliminary_ruling,Procedure / case structure,Selected judgment-level feature constructed in this notebook.
+is_appeal,Procedure / case structure,Selected judgment-level feature constructed in this notebook.
+is_annulment,Procedure / case structure,Selected judgment-level feature constructed in this notebook.
+is_infringement,Procedure / case structure,Selected judgment-level feature constructed in this notebook.
+is_damages_action,Procedure / case structure,Selected judgment-level feature constructed in this notebook.
+is_failure_to_act,Procedure / case structure,Selected judgment-level feature constructed in this notebook.
+is_joined_case,Procedure / case structure,Selected judgment-level feature constructed in this notebook.
+joined_proceeding_count,Procedure / case structure,Selected judgment-level feature constructed in this notebook.
+joined_proceeding_list,Procedure / case structure,Selected judgment-level feature constructed in this notebook.
+n_proceedings_in_bundle,Procedure / case structure,Selected judgment-level feature constructed in this notebook.
+is_appeal_of,Procedure / case structure,Selected judgment-level feature constructed in this notebook.
+appeal_of_list,Procedure / case structure,Selected judgment-level feature constructed in this notebook.
+chambers,Panel / formation,Selected judgment-level feature constructed in this notebook.
+is_grand_chamber,Panel / formation,1 if the judgment was assigned to the Grand Chamber.
+is_full_court_or_plenary,Panel / formation,Selected judgment-level feature constructed in this notebook.
+panel_judge_ids,Panel / formation,Semicolon-separated IDs of judges on the judgment panel.
+panel_size,Panel / formation,Number of distinct judges assigned to the judgment.
+panel_mean_age_approx,Panel / formation,Selected judgment-level feature constructed in this notebook.
+panel_share_female,Panel / formation,Selected judgment-level feature constructed in this notebook.
+panel_n_member_states,Panel / formation,Selected judgment-level feature constructed in this notebook.
+panel_member_states,Panel / formation,Selected judgment-level feature constructed in this notebook.
+panel_member_state_diversity,Panel / formation,Selected judgment-level feature constructed in this notebook.
+panel_mean_cjeu_service_years,Panel / formation,Selected judgment-level feature constructed in this notebook.
+panel_mean_judicial_service_years,Panel / formation,Selected judgment-level feature constructed in this notebook.
+panel_mean_prior_judge_assignments,Panel / formation,Selected judgment-level feature constructed in this notebook.
+rapporteur_ids,Judge-Rapporteur,Semicolon-separated Judge-Rapporteur IDs.
+n_rapporteurs,Procedure / case structure,Selected judgment-level feature constructed in this notebook.
+rapporteur_age_approx,Judge-Rapporteur,Selected judgment-level feature constructed in this notebook.
+rapporteur_is_female,Judge-Rapporteur,Selected judgment-level feature constructed in this notebook.
+rapporteur_member_states,Judge-Rapporteur,Selected judgment-level feature constructed in this notebook.
+rapporteur_cjeu_service_years,Judge-Rapporteur,Selected judgment-level feature constructed in this notebook.
+rapporteur_judicial_service_years,Judge-Rapporteur,Selected judgment-level feature constructed in this notebook.
+rapporteur_prior_judge_assignments,Judge-Rapporteur,Selected judgment-level feature constructed in this notebook.
+rapporteur_prior_rapporteur_assignments,Judge-Rapporteur,Selected judgment-level feature constructed in this notebook.
+has_advocate_general,Advocate-General,1 if an Advocate General is assigned.
+ag_ids,Advocate-General,Semicolon-separated Advocate-General IDs.
+n_advocates_general,Procedure / case structure,Selected judgment-level feature constructed in this notebook.
+ag_age_approx,Advocate-General,Selected judgment-level feature constructed in this notebook.
+ag_is_female,Advocate-General,Selected judgment-level feature constructed in this notebook.
+ag_member_states,Advocate-General,Selected judgment-level feature constructed in this notebook.
+ag_cjeu_service_years,Advocate-General,Selected judgment-level feature constructed in this notebook.
+ag_role_service_years,Advocate-General,Selected judgment-level feature constructed in this notebook.
+ag_prior_assignments,Advocate-General,Selected judgment-level feature constructed in this notebook.
+directory_codes,Subject matter / novelty,Semicolon-separated EUR-Lex directory codes.
+n_directory_codes,Subject matter / novelty,Selected judgment-level feature constructed in this notebook.
+directory_sections,Subject matter / novelty,Semicolon-separated EUR-Lex directory section labels.
+n_directory_sections,Subject matter / novelty,Selected judgment-level feature constructed in this notebook.
+directory_major_labels,Subject matter / novelty,Semicolon-separated EUR-Lex major subject labels.
+n_directory_major_labels,Subject matter / novelty,Selected judgment-level feature constructed in this notebook.
+directory_minor_labels,Subject matter / novelty,Semicolon-separated EUR-Lex minor subject labels.
+n_directory_minor_labels,Subject matter / novelty,Selected judgment-level feature constructed in this notebook.
+keywords,Subject matter / novelty,Semicolon-separated EUR-Lex keywords.
+n_keywords,Subject matter / novelty,Selected judgment-level feature constructed in this notebook.
+directory_code_novelty,Subject matter / novelty,Metadata novelty using only strictly earlier judgments.
+directory_section_novelty,Subject matter / novelty,Directory-section novelty using only strictly earlier judgments.
+directory_major_novelty,Subject matter / novelty,Directory-major novelty using only strictly earlier judgments.
+keyword_novelty,Subject matter / novelty,Keyword novelty using only strictly earlier judgments.
+party_ids,Parties,Semicolon-separated standardized party IDs.
+party_types,Parties,Selected judgment-level feature constructed in this notebook.
+party_roles,Parties,Selected judgment-level feature constructed in this notebook.
+n_parties,Parties,Selected judgment-level feature constructed in this notebook.
+n_party_types,Parties,Selected judgment-level feature constructed in this notebook.
+has_commission_party,Parties,Selected judgment-level feature constructed in this notebook.
+observer_ids,Observers,Semicolon-separated observer IDs.
+observer_types,Observers,Selected judgment-level feature constructed in this notebook.
+n_observers,Observers,Selected judgment-level feature constructed in this notebook.
+n_observer_types,Observers,Selected judgment-level feature constructed in this notebook.
+had_observers,Observers,1 if at least one written observer is recorded.
+has_commission_observer,Observers,Selected judgment-level feature constructed in this notebook.
+has_national_court_referral,Referrals / national courts,Selected judgment-level feature constructed in this notebook.
+referred_from_national_court,Referrals / national courts,Selected judgment-level feature constructed in this notebook.
+referring_court_ids,Referrals / national courts,Semicolon-separated referring national-court IDs from referrals.csv.
+referring_court_names,Referrals / national courts,Selected judgment-level feature constructed in this notebook.
+n_referring_courts,Referrals / national courts,Selected judgment-level feature constructed in this notebook.
+referring_member_states,Referrals / national courts,Semicolon-separated Member States of referring national courts.
+n_referring_member_states,Referrals / national courts,Selected judgment-level feature constructed in this notebook.
+referring_court_levels,Referrals / national courts,Selected judgment-level feature constructed in this notebook.
+referring_court_prestiges,Referrals / national courts,Selected judgment-level feature constructed in this notebook.
+referring_court_collegialitys,Referrals / national courts,Selected judgment-level feature constructed in this notebook.
+referring_court_competences,Referrals / national courts,Selected judgment-level feature constructed in this notebook.
+referring_court_competence_detaileds,Referrals / national courts,Selected judgment-level feature constructed in this notebook.
+referral_court_metadata_match_rate,Referrals / national courts,Selected judgment-level feature constructed in this notebook.

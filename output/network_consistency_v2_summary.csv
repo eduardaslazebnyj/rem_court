@@ -1,0 +1,12 @@
+metric,n
+raw_decisions,56951
+judgment_nodes,25778
+raw_citations,283994
+judgment_to_judgment_citations,266217
+excluded_non_judgment_edges,17777
+judgment_edges_both_endpoints_found,266217
+judgment_self_citations,2787
+judgment_same_day_citations,5040
+judgment_future_dated_citations,925
+judgment_strict_past_citations,260252
+valid_rem_event_candidate,260252

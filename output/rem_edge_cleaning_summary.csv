@@ -1,0 +1,9 @@
+metric,n,pct_of_raw
+raw_unique_citation_pairs,283994,100.0
+sender_in_judgment_nodes,267095,94.04952217300365
+receiver_in_judgment_nodes,283040,99.66407741008612
+self_citations,2805,0.9876969231744333
+same_day_citations_including_self,5040,1.7746853806770566
+future_dated_citations,925,0.32571110657267405
+retained_strict_past_judgment_events,260252,91.6399642245963
+excluded_total,23742,8.360035775403706
